@@ -33,4 +33,4 @@ For further questions on this project or future collaboration contact me at:<br>
 
 - GitHub: [SristyVerma](https://github.com/sristyverma)
 - Email: sristyel2016@gmail.com
-- Repository link: [skill-test1](https://github.com/terahje/skill-test1)
+- Repository link: [skilltest](https://github.com/SristyVerma/skilltest)
